@@ -1,0 +1,4 @@
+C:\Users\nerio\OneDrive\Desktop\DowntimeTrackingApp\obj\Debug\net8.0-windows\DowntimeTrackingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nerio\OneDrive\Desktop\DowntimeTrackingApp\obj\Debug\net8.0-windows\DowntimeTrackingApp.AssemblyInfoInputs.cache
+C:\Users\nerio\OneDrive\Desktop\DowntimeTrackingApp\obj\Debug\net8.0-windows\DowntimeTrackingApp.AssemblyInfo.cs
+C:\Users\nerio\OneDrive\Desktop\DowntimeTrackingApp\obj\Debug\net8.0-windows\DowntimeTrackingApp.csproj.CoreCompileInputs.cache
